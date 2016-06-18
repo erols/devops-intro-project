@@ -77,9 +77,9 @@
       },
       {
         "type": "digitalocean",
-        "api_token": "{{ user `DIGITALOCEAN_API_TOKEN` }}",
+        "api_token": "{{ user `444ec5305931c70e6dc453ddee40a49106a12c23338d3d98e347a92adcb7999f` }}",
         "image": "ubuntu-14-04-x64",
-        "region": "tor1",
+        "region": "ams2",
         "size": "512mb",
         "droplet_name": "udacity-devops",
         "private_networking": true
